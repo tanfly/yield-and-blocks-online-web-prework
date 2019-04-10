@@ -6,7 +6,6 @@ yield array[counter]
 counter += 1 
 end
 array
-end
 else
   puts "Hey! No block was given!"
 end
